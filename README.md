@@ -2,7 +2,7 @@
 监视系统进程和内存占用率，高于70% 即发送邮件到邮箱，低于70% 发送解除警告邮件
 
 ## Start
-- 1.使用python包管理pip 安装必要得库
+- 1.使用python包管理pip 安装必要的库
 ```
 pip install -r requirements.txt
 ```
